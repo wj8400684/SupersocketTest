@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupersocketServer2.0", "SupersocketServer2.0\SupersocketServer2.0.csproj", "{B8F8F533-4AA3-4DCB-80EB-7549DB124BB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupersocketClient", "SupersocketClient\SupersocketClient.csproj", "{8A84F30C-E6C8-4A8C-A0AF-AEB94CDC240C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupersocketServer1.6", "SupersocketServer1.6\SupersocketServer1.6.csproj", "{02881FAF-FAF7-4ADE-8E11-6C300768C282}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8F8F533-4AA3-4DCB-80EB-7549DB124BB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8F8F533-4AA3-4DCB-80EB-7549DB124BB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8F8F533-4AA3-4DCB-80EB-7549DB124BB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8F8F533-4AA3-4DCB-80EB-7549DB124BB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A84F30C-E6C8-4A8C-A0AF-AEB94CDC240C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A84F30C-E6C8-4A8C-A0AF-AEB94CDC240C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A84F30C-E6C8-4A8C-A0AF-AEB94CDC240C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A84F30C-E6C8-4A8C-A0AF-AEB94CDC240C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02881FAF-FAF7-4ADE-8E11-6C300768C282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02881FAF-FAF7-4ADE-8E11-6C300768C282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02881FAF-FAF7-4ADE-8E11-6C300768C282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02881FAF-FAF7-4ADE-8E11-6C300768C282}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
