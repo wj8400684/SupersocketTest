@@ -18,11 +18,12 @@ ValueTask OnPackageHandler(EasyClient<StringPackageInfo> sender, StringPackageIn
     return ValueTask.CompletedTask;
 }
 
-await superClient.ConnectAsync(new IPEndPoint(IPAddress.Parse("127.0.0.1"), 2023));
+await superClient.ConnectAsync(new IPEndPoint(IPAddress.Parse("127.0.0.1"), 2022));
 
 superClient.StartReceive();
 
 while (true)
 {
     await superClient.SendAsync(Encoding.UTF8.GetBytes($"Login test\r\n"));
+    //var package = await superClient.ReceiveAsync();
 }
