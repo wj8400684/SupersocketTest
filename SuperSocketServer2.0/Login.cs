@@ -4,8 +4,7 @@ using SuperSocket.ProtoBase;
 
 namespace SuperSocketFileServer;
 
-[Command(Commands.)]
-public sealed class Upload : IAsyncCommand<StringPackageInfo>
+public sealed class Login : IAsyncCommand<StringPackageInfo>
 {
     public ValueTask ExecuteAsync(IAppSession session, StringPackageInfo package)
     {

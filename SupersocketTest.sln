@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SupersocketServer2.0", "SupersocketServer2.0\SupersocketServer2.0.csproj", "{B8F8F533-4AA3-4DCB-80EB-7549DB124BB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SupersocketFileServer2.0", "SupersocketFileServer2.0\SupersocketFileServer2.0.csproj", "{B8F8F533-4AA3-4DCB-80EB-7549DB124BB0}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SupersocketClient", "SupersocketClient\SupersocketClient.csproj", "{8A84F30C-E6C8-4A8C-A0AF-AEB94CDC240C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupersocketServer1.6", "SupersocketServer1.6\SupersocketServer1.6.csproj", "{02881FAF-FAF7-4ADE-8E11-6C300768C282}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperSocketFileServer2.0", "SuperSocketFileServer2.0\SuperSocketFileServer2.0.csproj", "{A8E57B27-6967-42FA-936C-70EE8E73D348}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperSocketServer2.0", "SuperSocketServer2.0\SuperSocketServer2.0.csproj", "{A8E57B27-6967-42FA-936C-70EE8E73D348}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -6,7 +6,7 @@
     <RootNamespace>SuperSocketFileServer</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <AssemblyName>SuperSocketFileServer2.0</AssemblyName>
+    <PackageId>SuperSocketServer2.0</PackageId>
   </PropertyGroup>
 	<ItemGroup>
 		<PackageReference Include="SuperSocket" Version="2.0.0-beta.13" />

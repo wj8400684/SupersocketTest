@@ -7,7 +7,29 @@
     <projectFile>SupersocketTest/SupersocketTest.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb54b237-c6c6-4f94-8360-53dd8a2c225f" name="Changes" comment="" />
+    <list default="true" id="fb54b237-c6c6-4f94-8360-53dd8a2c225f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SupersocketTest/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SupersocketTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SupersocketTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperSocketFileServer2.0/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SuperSocketServer2.0/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperSocketFileServer2.0/SuperSocketFileServer2.0.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SuperSocketServer2.0/SuperSocketServer2.0.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperSocketFileServer2.0/Upload.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SuperSocketServer2.0/Login.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperSocketFileServer2.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/SuperSocketServer2.0/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SupersocketServer2.0/Commands.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SupersocketFileServer2.0/Commands.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SupersocketServer2.0/Commands/Active.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SupersocketFileServer2.0/Commands/Active.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SupersocketServer2.0/Commands/Data.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SupersocketFileServer2.0/Commands/Data.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SupersocketServer2.0/Commands/Eof.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SupersocketFileServer2.0/Commands/Eof.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SupersocketServer2.0/Commands/Login.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SupersocketFileServer2.0/Commands/Login.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SupersocketServer2.0/Commands/Upload.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SupersocketFileServer2.0/Commands/Upload.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SupersocketServer2.0/FileAppSession.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SupersocketFileServer2.0/FileAppSession.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SupersocketServer2.0/FilePackageEncode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SupersocketFileServer2.0/FilePackageEncode.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SupersocketServer2.0/FilePackageInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SupersocketFileServer2.0/FilePackageInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SupersocketServer2.0/FilePipelineFilter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SupersocketFileServer2.0/FilePipelineFilter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SupersocketServer2.0/FirstFilePipelineFilter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SupersocketFileServer2.0/FirstFilePipelineFilter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SupersocketServer2.0/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SupersocketFileServer2.0/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SupersocketServer2.0/SupersocketServer2.0.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SupersocketFileServer2.0/SupersocketFileServer2.0.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SupersocketServer2.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/SupersocketFileServer2.0/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SupersocketTest.sln" beforeDir="false" afterPath="$PROJECT_DIR$/SupersocketTest.sln" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,39 +43,46 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/a1ce1c69645646719db9dfa57cf6b99c66ea0/81/0dc53d25/ClientConfigurationSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SuperSocketServer2.0/Login.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SupersocketFileServer2.0/Commands.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SupersocketFileServer2.0/FileAppSession.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SupersocketFileServer2.0/FilePackageEncode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SupersocketFileServer2.0/FilePackageInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SupersocketFileServer2.0/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SupersocketServer1.6/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SupersocketServer1.6/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/SupersocketServer2.0/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="Toolset" />
+  </component>
   <component name="ProjectId" id="2KZirYERohq9ykaAGgsQMBsb3tJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;XThreadsFramesViewSplitterKey&quot;: &quot;0.49744898&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "XThreadsFramesViewSplitterKey": "0.49744898",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;rider.external.source.directories&quot;: [
-      &quot;C:\\Users\\wujun\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache&quot;,
-      &quot;C:\\Users\\wujun\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache&quot;,
-      &quot;C:\\Users\\wujun\\AppData\\Local\\Symbols\\src&quot;
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "/Users/wujun/Library/Application Support/JetBrains/Rider2022.3/resharper-host/DecompilerCache",
+      "/Users/wujun/Library/Application Support/JetBrains/Rider2022.3/resharper-host/SourcesCache",
+      "/Users/wujun/.local/share/Symbols/src"
     ]
   }
-}</component>
-  <component name="RunManager" selected=".NET Project.SupersocketClient">
+}]]></component>
+  <component name="RunManager" selected=".NET Project.SuperSocketFileServer2.0">
     <configuration name="SuperSocketFileServer2.0" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -62,7 +91,7 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SuperSocketFileServer2.0/SuperSocketFileServer2.0.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SuperSocketServer2.0/SuperSocketServer2.0.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -116,7 +145,7 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SupersocketServer2.0/SupersocketServer2.0.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SupersocketFileServer2.0/SupersocketFileServer2.0.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -138,6 +167,7 @@
       <workItem from="1674188707808" duration="3121000" />
       <workItem from="1674195241176" duration="971000" />
       <workItem from="1674289496738" duration="16000" />
+      <workItem from="1674371161603" duration="392000" />
     </task>
     <servers />
   </component>
